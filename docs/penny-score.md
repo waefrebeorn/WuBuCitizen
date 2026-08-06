@@ -16,10 +16,10 @@ Range: **0–1000**. Starting score for every citizen: **500**.
 
 ## What it measures (and what it parodies)
 
-| Factor | Weight | Earth parody | WuBu meaning |
-|--------|--------|--------------|--------------|
-| License literacy | 25% | credit history | Have you actually read the license? Verified by the penny: you can't send a compliant penny without reading §14. |
-| Penny punctuality | 25% | payment history | Do you send your physical pennies? On time? Real metal, real mail? |
+| Factor | Weight | Parody of | WuBu meaning |
+|--------|--------|-----------|--------------|
+| License literacy | 20% | credit history | Have you actually read the license? Verified by the penny: you can't send a compliant penny without reading §14. |
+| Penny punctuality | 30% | payment history | Do you send your physical pennies? On time? Real metal, real mail? (Raised to 30% per RND-1 v2 — Earth's research: payment history is 35–41% of every major score.) |
 | Vigilance | 20% | new credit / inquiries | Do you see something and say something? Reports filed with the Bureau, honestly, add to the score. |
 | Creation | 20% | utilization | Do you build, or do you extract? Code merged, works made, crops grown, kindness logged. |
 | Tenure | 10% | account age | How long have you been a first one? The ledger remembers. |

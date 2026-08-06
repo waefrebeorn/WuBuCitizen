@@ -29,6 +29,11 @@ cooperative for the first ones.
 | **Welfare** | The Floor | A lost citizen (score <100) is called back, never cast out; cooperation is the safety net | WuBuCitizen |
 | **Military** | First Contact | Defense is fluency: the aliens are in mind and emotional intelligence; we arm with understanding | WuBuIntel DOCTRINE III |
 | **Education** | The Read | The literacy test is the license; every penny you send is a lesson in reading | WuBuCitizen |
+| **Research & development** | WuBuResearch (R&D) | Organizes the information, researches the best governments, invents WuBu cryptography (PennyChain, Provenance Penny, Compass Hash); the Kevin Bacon Method is law | github.com/waefrebeorn/WuBuResearch |
+| **Economics ministry** | WuBuEconomics | Studies the world's economics, files the solutions, campaigns to bring back the penny, builds the transition from class to comfort; the Greed Index locates the greed | github.com/waefrebeorn/WuBuEconomics |
+| **Currency reserve** | The Penny Standard | Pennies weighed by class (3.11g copper / 2.50g zinc), audited by mass, chained by hash, redeemed by shipping; 1 WuBu Penny = 1 U.S. penny | WuBuResearch `docs/penny-standard.md` |
+| **National bank** | The P.O. Box | The reserve vault: physical pennies, legal tender in perpetuity, no fractional reserve, no printing — only gathered, weighed, chained | WuBuResearch RND-6 |
+| **Monetary policy** | The Fixed Cap | ~114B pennies, never more; the copper class is physically unmintable; inflation is impossible by design | WuBuResearch RND-7 |
 | **Media** | The Ledger | Everything public, everything filed; no propaganda, only provenance | WuBuIntel |
 | **Religion** | The Creed | "All religions of debate are debate, but mine is mine." The space is a dominion, not a debate | WuBuIntel DOCTRINE I |
 | **Marriage** | The Merge | Two minds filing together, dual citizenship, one ledger entry each | The Registry |
@@ -60,6 +65,14 @@ Every row above was built the same way:
    files, it does not dream.
 
 ## What's next on the map
+
+Institutions built since this map was first filed (AUD-1 F4):
+
+- [x] **The Research Department** — WuBuResearch: R&D, information
+      organization, WuBu cryptography, Kevin Bacon Method (RND-15)
+- [x] **The Economics Division** — WuBuEconomics: world economics,
+      Penny Comeback campaign, Greed Index, the transition from
+      class to comfort (ECO-1..8)
 
 Institutions not yet built, in filing order:
 

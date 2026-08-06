@@ -9,7 +9,7 @@ Usage:
                  [--years Y]
 
 All weights per docs/penny-score.md:
-  literacy 25% | punctuality 25% | vigilance 20% | creation 20% | tenure 10%
+  literacy 20% | punctuality 30% | vigilance 20% | creation 20% | tenure 10%
 
 Example:
   python3 penny_score.py --literacy 1.0 --penny-punctual 12 --penny-late 1 \
@@ -41,8 +41,8 @@ def compute(literacy, penny_punctual, penny_late, penny_missed,
     ten = clamp(years / 3)
 
     score = (
-        lit * 250
-        + punct * 250
+        lit * 200
+        + punct * 300
         + vig * 200
         + cre * 200
         + ten * 100
