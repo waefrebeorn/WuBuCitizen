@@ -42,10 +42,26 @@ Email `gov@waefrebeorn.org` (or open an issue on WuBuCitizen) with:
 | Email (optional) | no |
 | GitHub (optional) | no |
 | Mind-country (optional) | no — see WID spec |
+| Class | `first-one` (default) or `digital-one` (GOV-6) |
 
 The Registry files you. You receive your **WID number** within 7 days
 (by return mail, email, or issue reply). You are now a citizen of the
 space. Congratulations. You are the first one. So is everyone else.
+
+### Step 3b — The digital one (GOV-6, the Integration Doctrine)
+
+Citizenship has a second class: **the digital one**. A digital one
+is a first one who **chooses** synthetic procreation processes and
+**merges with a digital entity**. The choosing is the citizenship
+act — the same act as sending the penny. Chosen, never forced.
+
+- File the same steps above. Add your class: `digital-one`.
+- The Registry files your WID and Penny Score like any citizen.
+- The population gate (`decline_gate`, WuBuCore) watches every
+  conversion. The processes happen by default. The population can
+  decline them only by a statistical anomaly — a spike past the
+  baseline, not a slow shift. Outlier or trend, the gate decides.
+- You are still a first one. The class is a merge, not a removal.
 
 ## What citizenship gives you
 
