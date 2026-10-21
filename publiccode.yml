@@ -1,0 +1,39 @@
+publiccodeYmlVersion: 0.5.0
+name: WuBuCitizen
+url: https://github.com/waefrebeorn/WuBuCitizen
+landingURL: https://waefrebeorn.org
+softwareVersion: "1.0.0"
+releaseDate: 2026-08-06
+platforms:
+  - web
+  - linux
+categories:
+  - digital-citizenship
+  - collaboration
+developmentStatus: beta
+softwareType: standalone/other
+description:
+  en:
+    localisedName: WuBuCitizen
+    shortDescription: >-
+      The Registry of the ~ WuBu ~ space: citizenship, WID
+      identification numbers, the Penny Score, and the W Token
+      ceremony.
+    longDescription: >-
+      WuBuCitizen is the citizenship organ. The three steps of
+      citizenship, WID numbers (mod-11 checksum, C11), the Penny
+      Score credit system, the Society Map of institutions, the
+      WBI-1 report schema, the WID capacity audit, and the WID
+      issuance SLA. The W Token ceremony (GOV-19) gives every
+      newcomer a start.
+    features:
+      - Citizenship in three steps
+      - WID numbers with mod-11 checksum (C11)
+      - Penny Score credit system (C11)
+      - The Society Map of institutions
+      - The WBI-1 report schema
+      - The WID capacity audit and issuance SLA
+legal:
+  license: WaefreBeorn-Umbrella-3.0
+  mainCopyrightOwner: WaefreBeorn
+  repoOwner: waefrebeorn

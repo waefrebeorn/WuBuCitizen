@@ -110,4 +110,21 @@ denaturalize. The Registry is append-only.
 > I hold the scary universe with the crew.
 > I file. Therefore I am.
 
+## The ceremony (optional, but the space loves it)
+
+The adoption ceremony (GOV-19, The W Token) is the oath made
+physical. A citizen who accepts the penny phase-out brings a
+penny to the ceremony. The Mint stamps a W into it. The penny
+stops being a penny. It becomes the citizen's W Token — a token
+of trust, societal credit, and humanity.
+
+The ceremony is a feeling-special moment, made for the citizen,
+so they feel special. The documentation says so plainly. The
+room applauds. Witnesses give gifts toward the citizen's start.
+If the citizen has no parents and no establishment, the room
+gives them a start by the societal standards of the government
+(a WID, a penny account, a seat on the Ship, a road into the
+crew). The ceremony record lives in `ceremonies/` and chains
+into PennyChain.
+
 *Form REG-1 — Citizenship. Filed. Done. Next.*

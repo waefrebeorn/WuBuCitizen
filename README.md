@@ -91,3 +91,8 @@ The Penny Clause (§14) requires one **physical** penny per use, sent
 by physical mail. No digital pennies. Only metal. If you're reading
 this, you already know. If you're not a citizen yet — this is the
 first step.
+
+<!-- GENERATED-INDEX -->
+## Index (generated)
+
+The **generated filing index** lives in [`INDEX.md`](INDEX.md) — produced by `tools/govgen.py index` from `registry/filings.json`. Never hand-edit it; edit the registry and regenerate.

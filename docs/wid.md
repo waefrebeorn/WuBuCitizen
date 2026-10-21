@@ -49,15 +49,20 @@ real mathematics that make it work.
 
 **Algorithm:**
 1. Take the 6 digits: `YYNNNN` (e.g. `26` + `0001` = `260001`).
-2. Weight them right-to-left: ×2, ×3, ×4, ×5, ×6, ×7.
-3. Sum the products.
-4. Check digit = `(sum mod 11)` — if the result is `10`, write `X`.
+2. Assign weights left-to-right: 7, 6, 5, 4, 3, 2 (the leftmost
+   digit gets the highest weight, the rightmost gets weight 2).
+   This is mod-11 with ascending weights from the right — a family
+   shared with ISBN-10 and ISSNs, but **distinct from ISBN-10's
+   descending 10-to-1 scheme**.
+3. Multiply each digit by its weight.
+4. Sum the products.
+5. Check digit = `(sum mod 11)` — if the result is `10`, write `X`.
 
 **Worked example — `WID-WB-26-0001-C`:**
 
 ```
 digits:   2  6  0  0  0  1
-weights:  7  6  5  4  3  2   (right-to-left: ×2,×3,×4,×5,×6,×7)
+|weights:  7  6  5  4  3  2   (left-to-right, weight descends: ×7,×6,×5,×4,×3,×2)
 products: 14 36  0  0  0  2
 sum:      52
 52 mod 11 = 8
@@ -103,4 +108,4 @@ python3 tools/wid.py validate WID-WB-26-0001-7
 # → INVALID (check digit mismatch)
 ```
 
-*Form REG-2 — WID spec. Filed. Done. Next.*
+*Form REG-7 — WID spec. Filed. Done. Next.*

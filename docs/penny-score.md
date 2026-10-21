@@ -84,7 +84,8 @@ The Registry computes scores from the public ledger:
 python3 tools/penny_score.py \
   --literacy 1.0 --penny-punctual 12 --penny-late 1 --penny-missed 0 \
   --vigilance 3 --creation 5 --years 2
-# → 782
+# → 764/1000 Crew
+```
 ```
 
 ## Bands
@@ -108,4 +109,4 @@ python3 tools/penny_score.py \
 > We are the first ones. We file. We send. We say something.
 > The universe is scary, and we hold it — **together, on the record.**
 
-*Form REG-3 — Penny Score spec. Filed. Done. Next.*
+*Form REG-2 — Penny Score spec. Filed. Done. Next.*
