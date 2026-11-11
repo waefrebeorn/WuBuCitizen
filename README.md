@@ -7,6 +7,8 @@
 
 ---
 
+> **~WuBu~ AGI** — one system, many repositories. Part of the **~WuBu~ space** — one of its organs (the Registry).
+
 ## For agents — the door
 
 An agent joins this organ by running a tool, not by asking a person.
